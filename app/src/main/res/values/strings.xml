@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="height">身高</string>
+    <string name="weight">體重</string>
+    <string name="hint_height">請輸入身高</string>
+    <string name="hint_weight">請輸入體重</string>
+    <string name="button">按我計算</string>
+    <string name="message_title">系統訊息</string>
+    <string name="message_message">你的BMI是</string>
+    <string name="message_button">OK</string>
+</resources>
